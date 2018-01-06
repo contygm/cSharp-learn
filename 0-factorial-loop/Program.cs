@@ -12,7 +12,7 @@ namespace Factorial_Puzzle
             var n = Convert.ToInt32(Console.ReadLine());
 
             // loop calculation
-            Console.WriteLine($"LOOP calculation: Foctorial of {n} is {CalculateLoop(n)}");
+            Console.WriteLine($"Factorial of {n} is {CalculateRecursive(n)}");
         }
 
         // LOOP: from 1 to n

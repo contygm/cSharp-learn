@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/genevieve.conty/Documents/cSharp-learn/myApp/myApp.csproj",
+      "projectUniqueName": "/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/Users/genevieve.conty/Documents/cSharp-learn/myApp/myApp.csproj",
+      "projectPath": "/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/myApp.csproj",
       "packagesPath": "/Users/genevieve.conty/.nuget/packages/",
-      "outputPath": "/Users/genevieve.conty/Documents/cSharp-learn/myApp/obj/",
+      "outputPath": "/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

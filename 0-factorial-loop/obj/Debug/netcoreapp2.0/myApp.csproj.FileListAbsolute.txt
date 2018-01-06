@@ -8,3 +8,13 @@
 /Users/genevieve.conty/Documents/cSharp-learn/myApp/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
 /Users/genevieve.conty/Documents/cSharp-learn/myApp/obj/Debug/netcoreapp2.0/myApp.dll
 /Users/genevieve.conty/Documents/cSharp-learn/myApp/obj/Debug/netcoreapp2.0/myApp.pdb
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/bin/Debug/netcoreapp2.0/myApp.deps.json
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.json
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/bin/Debug/netcoreapp2.0/myApp.runtimeconfig.dev.json
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/bin/Debug/netcoreapp2.0/myApp.dll
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/bin/Debug/netcoreapp2.0/myApp.pdb
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/Debug/netcoreapp2.0/myApp.csproj.CoreCompileInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/Debug/netcoreapp2.0/myApp.AssemblyInfoInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/Debug/netcoreapp2.0/myApp.AssemblyInfo.cs
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/Debug/netcoreapp2.0/myApp.dll
+/Users/genevieve.conty/Documents/cSharp-learn/0-factorial-loop/obj/Debug/netcoreapp2.0/myApp.pdb
