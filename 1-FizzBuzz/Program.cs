@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Text;
-using System.Threading.Tasks;
 
 // Solve with loop and Recusrion
 // - Print numbers 1-100
@@ -8,7 +7,7 @@ using System.Threading.Tasks;
 // - Numbers divisble by 5 print Buzz
 // - Numbers divisble by 3 & 5 print FizzBuzz
 
-namespace _1_FizzBuzz
+namespace FizzBuzz
 {
     class Program
     {
@@ -32,6 +31,8 @@ namespace _1_FizzBuzz
                 else
                     Console.WriteLine($"{n}");
             }
+
+            return;
         }
 
         private static void Recursion(int n)

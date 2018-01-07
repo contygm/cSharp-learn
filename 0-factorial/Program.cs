@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Factorial_Puzzle
+namespace Factorial
 {
     class Program
     {
@@ -11,7 +11,7 @@ namespace Factorial_Puzzle
             Console.Write("Please enter the nth value as an integer: ");
             var n = Convert.ToInt32(Console.ReadLine());
 
-            // loop calculation
+            // calculation
             Console.WriteLine($"Factorial of {n} is {CalculateRecursive(n)}");
         }
 
