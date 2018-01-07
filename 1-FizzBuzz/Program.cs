@@ -14,10 +14,11 @@ namespace _1_FizzBuzz
     {
         static void Main(string[] args)
         {
-            Loop();
+            // Loop();
+            Recursion(1);
         }
 
-        private static bool Loop()
+        private static void Loop()
         {
             var n = 0;
             while (n++ < 100)
@@ -31,8 +32,23 @@ namespace _1_FizzBuzz
                 else
                     Console.WriteLine($"{n}");
             }
+        }
 
-            return true;
+        private static void Recursion(int n)
+        {
+            if (n > 100)
+                return;
+
+            if (n % 3 == 0 && n % 5 == 0)
+                Console.WriteLine("Fizz Buzz");
+            else if (n % 3 == 0)
+                Console.WriteLine("Fizz");
+            else if (n % 5 == 0)
+                Console.WriteLine("Buzz");
+            else
+                Console.WriteLine($"{n}");
+            
+            Recursion(n + 1); 
         }
     }
 }
