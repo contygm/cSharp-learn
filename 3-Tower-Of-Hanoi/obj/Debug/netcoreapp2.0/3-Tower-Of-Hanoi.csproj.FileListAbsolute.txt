@@ -1,0 +1,10 @@
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/bin/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.deps.json
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/bin/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.runtimeconfig.json
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/bin/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.runtimeconfig.dev.json
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/bin/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.dll
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/bin/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.pdb
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/obj/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.csproj.CoreCompileInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/obj/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.AssemblyInfoInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/obj/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.AssemblyInfo.cs
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/obj/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.dll
+/Users/genevieve.conty/Documents/cSharp-learn/3-Tower-Of-Hanoi/obj/Debug/netcoreapp2.0/3-Tower-Of-Hanoi.pdb
