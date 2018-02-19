@@ -1,0 +1,10 @@
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/obj/Debug/netcoreapp2.0/cSharp-learn.csproj.CoreCompileInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/obj/Debug/netcoreapp2.0/cSharp-learn.AssemblyInfoInputs.cache
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/obj/Debug/netcoreapp2.0/cSharp-learn.AssemblyInfo.cs
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/bin/Debug/netcoreapp2.0/cSharp-learn.deps.json
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/bin/Debug/netcoreapp2.0/cSharp-learn.runtimeconfig.json
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/bin/Debug/netcoreapp2.0/cSharp-learn.runtimeconfig.dev.json
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/bin/Debug/netcoreapp2.0/cSharp-learn.dll
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/bin/Debug/netcoreapp2.0/cSharp-learn.pdb
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/obj/Debug/netcoreapp2.0/cSharp-learn.dll
+/Users/genevieve.conty/Documents/cSharp-learn/4-Sieve-of-Erasthenes/obj/Debug/netcoreapp2.0/cSharp-learn.pdb
